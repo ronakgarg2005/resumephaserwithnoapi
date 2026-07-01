@@ -1,0 +1,45 @@
+Python
+Java
+C
+C++
+JavaScript
+TypeScript
+HTML
+CSS
+SQL
+MySQL
+MongoDB
+PostgreSQL
+React
+Next.js
+Node.js
+Express.js
+Flask
+Django
+FastAPI
+Bootstrap
+Tailwind CSS
+Git
+GitHub
+Docker
+Kubernetes
+AWS
+Azure
+Linux
+TensorFlow
+PyTorch
+Machine Learning
+Deep Learning
+NLP
+Data Science
+Blockchain
+Solidity
+Web3.js
+Hardhat
+Remix
+MetaMask
+WalletConnect
+REST API
+GraphQL
+Firebase
+Redis
